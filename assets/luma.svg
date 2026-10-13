@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="165" viewBox="0 0 1200 165" role="img" aria-label="Proyecto 03, Luma Music: sitio de música en colaboración">
+  <defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#1a2435"/><stop offset="1" stop-color="#2b2135"/></linearGradient></defs>
+  <rect width="1200" height="165" rx="18" fill="url(#g)"/>
+  <rect x="0" y="0" width="9" height="165" fill="#df9dd7"/>
+  <text x="42" y="43" font-family="Consolas, monospace" font-size="18" font-weight="700" letter-spacing="3" fill="#df9dd7">03 / COLABORACIÓN</text>
+  <text x="39" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="60" font-weight="800" fill="#f7f8f8">Luma Music</text>
+  <text x="580" y="75" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#f5e4f3">EXPERIENCIA MUSICAL WEB</text>
+  <text x="580" y="112" font-family="Consolas, monospace" font-size="19" fill="#aebdca">TYPESCRIPT  /  CSS  /  PRODUCTO</text>
+  <circle cx="1101" cy="82" r="46" fill="none" stroke="#df9dd7" stroke-opacity=".58" stroke-width="2"/>
+  <path d="M1082 82h35m-13-13 13 13-13 13" fill="none" stroke="#df9dd7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
