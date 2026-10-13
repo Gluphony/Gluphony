@@ -1,11 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="165" viewBox="0 0 1200 165" role="img" aria-label="Proyecto 03, Luma Music: sitio de música en colaboración">
-  <defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#1a2435"/><stop offset="1" stop-color="#2b2135"/></linearGradient></defs>
-  <rect width="1200" height="165" rx="18" fill="url(#g)"/>
-  <rect x="0" y="0" width="9" height="165" fill="#df9dd7"/>
-  <text x="42" y="43" font-family="Consolas, monospace" font-size="18" font-weight="700" letter-spacing="3" fill="#df9dd7">03 / COLABORACIÓN</text>
-  <text x="39" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="60" font-weight="800" fill="#f7f8f8">Luma Music</text>
-  <text x="580" y="75" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#f5e4f3">EXPERIENCIA MUSICAL WEB</text>
-  <text x="580" y="112" font-family="Consolas, monospace" font-size="19" fill="#aebdca">TYPESCRIPT  /  CSS  /  PRODUCTO</text>
-  <circle cx="1101" cy="82" r="46" fill="none" stroke="#df9dd7" stroke-opacity=".58" stroke-width="2"/>
-  <path d="M1082 82h35m-13-13 13 13-13 13" fill="none" stroke="#df9dd7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+  <title id="title">Luma Music</title>
+  <desc id="desc">A collaborative music web project presented beside an illustrated audio player.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#1a2033"/><stop offset="1" stop-color="#302438"/></linearGradient>
+    <linearGradient id="cover" x2="1" y2="1"><stop stop-color="#df9dd7"/><stop offset=".55" stop-color="#966fbd"/><stop offset="1" stop-color="#56548e"/></linearGradient>
+    <clipPath id="clip"><rect width="1200" height="250" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="250" fill="url(#bg)"/>
+    <circle cx="1112" cy="3" r="258" fill="#df9dd7" opacity=".04"/>
+    <path d="M0 211h1200" stroke="#df9dd7" stroke-opacity=".13"/>
+    <rect width="9" height="250" fill="#df9dd7"/>
+    <rect x="43" y="35" width="193" height="29" rx="14" fill="#df9dd7" opacity=".13"/>
+    <text x="61" y="55" font-family="Consolas, monospace" font-size="15" font-weight="700" letter-spacing="2" fill="#df9dd7">03 / COLLABORATION</text>
+    <text x="42" y="137" font-family="Segoe UI, Arial, sans-serif" font-size="68" font-weight="800" fill="#f7f9fb">Luma Music</text>
+    <text x="46" y="174" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#ddc9df">A music experience for the web.</text>
+    <text x="46" y="221" font-family="Consolas, monospace" font-size="17" fill="#df9dd7">TYPESCRIPT  /  CSS  /  TEAMWORK</text>
+    <rect x="665" y="28" width="495" height="194" rx="16" fill="#171824" stroke="#d5a9d0" stroke-opacity=".29" stroke-width="2"/>
+    <rect x="666" y="29" width="493" height="32" rx="15" fill="#30253c"/>
+    <path d="M666 61h493" stroke="#d9bad5" stroke-opacity=".16"/>
+    <circle cx="689" cy="45" r="4" fill="#df9dd7"/><circle cx="705" cy="45" r="4" fill="#f0df77"/><circle cx="721" cy="45" r="4" fill="#887f9a"/>
+    <rect x="684" y="80" width="128" height="123" rx="9" fill="url(#cover)"/>
+    <circle cx="749" cy="141" r="44" fill="#3a284b" opacity=".72"/>
+    <circle cx="749" cy="141" r="29" fill="none" stroke="#f4d5ed" stroke-opacity=".45" stroke-width="2"/>
+    <circle cx="749" cy="141" r="11" fill="#eac3df"/>
+    <path d="M793 88l-31 38" stroke="#fff0f8" stroke-opacity=".45" stroke-width="4" stroke-linecap="round"/>
+    <text x="841" y="101" font-family="Consolas, monospace" font-size="13" fill="#df9dd7">NOW PLAYING</text>
+    <rect x="841" y="117" width="165" height="8" rx="4" fill="#f5e8f2" opacity=".82"/>
+    <rect x="841" y="134" width="110" height="5" rx="2.5" fill="#ac9bae" opacity=".65"/>
+    <g fill="#df9dd7">
+      <rect x="842" y="163" width="4" height="12" rx="2"/><rect x="851" y="156" width="4" height="19" rx="2"/><rect x="860" y="147" width="4" height="28" rx="2"/><rect x="869" y="160" width="4" height="15" rx="2"/><rect x="878" y="151" width="4" height="24" rx="2"/><rect x="887" y="143" width="4" height="32" rx="2"/><rect x="896" y="155" width="4" height="20" rx="2"/><rect x="905" y="148" width="4" height="27" rx="2"/><rect x="914" y="159" width="4" height="16" rx="2"/><rect x="923" y="151" width="4" height="24" rx="2"/><rect x="932" y="146" width="4" height="29" rx="2"/><rect x="941" y="158" width="4" height="17" rx="2"/><rect x="950" y="153" width="4" height="22" rx="2"/>
+    </g>
+    <path d="M841 190h247" stroke="#a998ac" stroke-opacity=".5" stroke-width="4" stroke-linecap="round"/>
+    <path d="M841 190h127" stroke="#df9dd7" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="968" cy="190" r="5" fill="#f5d9ed"/>
+    <circle cx="1106" cy="151" r="22" fill="#df9dd7"/>
+    <path d="M1101 142l14 9-14 9z" fill="#2d2237"/>
+  </g>
 </svg>
